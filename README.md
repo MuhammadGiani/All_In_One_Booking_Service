@@ -12,4 +12,4 @@ EMU8086, MASM, DOSBox
 
 ## Contributors
 - Muhammad Mustafa Giani
-- Syed
+- Syed Muhammad Ali Raza
